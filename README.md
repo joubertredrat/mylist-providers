@@ -6,8 +6,8 @@ This is my list about providers that I use, used or want to test around the worl
 
 #### Cloud and VPS Providers
 
-|Nane|Site|Status|
-|-|-|-|
+| Name | Site | Status |
+|---|---|---|
 | Aruba Cloud | [https://www.arubacloud.com/](https://www.arubacloud.com/) | Tested, good provider |
 | Atlantic.net | [https://www.atlantic.net/](https://www.atlantic.net/) | Tested, good provider |
 | Aurelion | [https://www.aulerion.com/](https://www.aulerion.com/) | List to test |
@@ -18,3 +18,22 @@ This is my list about providers that I use, used or want to test around the worl
 | Linode | [https://www.linode.com/](https://www.linode.com/) | List to test |
 | Scaleway | [https://www.scaleway.com/](https://www.scaleway.com/) | List to test |
 | Vultr | [https://www.vultr.com/](https://www.vultr.com/) | Atual provider on prodution |
+
+#### Private cloud and Datacenter virtual Providers
+
+| Name | Site | Status |
+|---|---|---|
+| Eveo | [https://www.eveo.com.br/datacenter-virtual/](https://www.eveo.com.br/datacenter-virtual/) | |
+
+#### DNS providers
+
+| Name | Site | Status |
+|---|---|---|
+| ClouDNS | [https://www.cloudns.net/](https://www.cloudns.net/) | Tested, excelent and actual provider |
+
+#### CDN, proxy and security providers
+
+| Name | Site | Status |
+|---|---|---|
+| Cloudflare | [https://www.cloudflare.com/](https://www.cloudflare.com/) | Tested, good and actual provider |
+| Incapsula | [https://www.incapsula.com/](https://www.incapsula.com/) | Tested, good provider |
