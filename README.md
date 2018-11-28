@@ -1,2 +1,14 @@
-# mylist-provides
-This isn't an awesome list, this is my list about providers
+# MyList - Providers
+
+"This isn't an awesome list, this is my list about providers" by me.
+
+This is my list about providers that I use, used or want to test around the world. You're welcome to suggest me other providers that isn't listed here.
+
+#### Cloud and VPS Providers
+
+|Nane|Site|Status|
+|-|-|-|
+| Aruba Cloud | [https://www.arubacloud.com/](https://www.arubacloud.com/) | Tested, good provider |
+| Atlantic.net | [https://www.atlantic.net/](https://www.atlantic.net/) | Tested, good provider |
+| Aurelion | [https://www.aulerion.com/](https://www.aulerion.com/) | List to test |
+| Vultr | [https://www.vultr.com/](https://www.vultr.com/) | Atual provider on prodution |
