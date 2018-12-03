@@ -19,6 +19,17 @@ This is my list about providers that I use, used or want to test around the worl
 | Scaleway | [https://www.scaleway.com/](https://www.scaleway.com/) | List to test |
 | Vultr | [https://www.vultr.com/](https://www.vultr.com/) | Atual provider on prodution |
 
+#### Baremetal and dedicated server providers
+
+| Name | Site | Status |
+|---|---|---|
+| Hetzner | [https://www.hetzner.com/](https://www.hetzner.com/?country=us) | List to test |
+| Kimsufi | [https://www.kimsufi.com/](https://www.kimsufi.com/) | Tested, good provider |
+| Online.net | [https://www.online.net/en](https://www.online.net/en) | List to test |
+| OVH | [https://www.ovh.com/](https://www.ovh.com/) | List to test |
+| SoYouStart | [https://www.soyoustart.com/](https://www.soyoustart.com/) | Tested, good provider |
+
+
 #### Private cloud and Datacenter virtual Providers
 
 | Name | Site | Status |
