@@ -13,6 +13,7 @@ This is my list about providers that I use, used or want to test around the worl
 | Aurelion | [https://www.aulerion.com/](https://www.aulerion.com/) | List to test |
 | Digital Ocean | [https://www.digitalocean.com/](https://www.digitalocean.com/) | Tested, good provider |
 | Dreamhost Cloud | [https://www.dreamhost.com/cloud/](https://www.dreamhost.com/cloud/) | List to test |
+| Elyp | [https://www.elyp.net/](https://www.elyp.net/) | List to test |
 | Hetzner Cloud | [https://www.hetzner.com/cloud?country=us](https://www.hetzner.com/cloud?country=us) | List to test |
 | Let's Cloud | [https://www.letscloud.io/](https://www.letscloud.io/) | List to test |
 | Lightsail | [https://aws.amazon.com/pt/lightsail/](https://aws.amazon.com/pt/lightsail/) | List to test |
