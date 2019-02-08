@@ -43,6 +43,7 @@ This is my list about providers that I use, used or want to test around the worl
 | Name | Site | Status |
 |---|---|---|
 | ClouDNS | [https://www.cloudns.net/](https://www.cloudns.net/) | Tested, excelent and actual provider |
+| DNSimple | [https://dnsimple.com/](https://dnsimple.com/) | List to test |
 
 #### CDN, proxy and security providers
 
