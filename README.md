@@ -45,6 +45,13 @@ This is my list about providers that I use, used or want to test around the worl
 | ClouDNS | [https://www.cloudns.net/](https://www.cloudns.net/) | Tested, excelent and actual provider |
 | DNSimple | [https://dnsimple.com/](https://dnsimple.com/) | List to test |
 
+#### Storage providers
+| Name | Status | Observations |
+|---|---|---|
+| [Hetzner StorageBox](https://www.hetzner.com/storage/storage-box) | Tested, good provider | |
+| [Hetzner Nextcloud](https://www.hetzner.com/storage/nextcloud) | List to test | |
+| [Hubic](https://hubic.com/) | Tested, very bad, terrible | |
+
 #### CDN, proxy and security providers
 
 | Name | Site | Status |
